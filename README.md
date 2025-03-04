@@ -6,5 +6,5 @@ User authentication using Firebase
 
 UI Overview  
 
-![Login Page](./Devcom.png)
+![](./Devcom.png)
 
