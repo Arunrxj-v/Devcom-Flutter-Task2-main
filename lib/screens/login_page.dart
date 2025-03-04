@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'Auth/auth_bloc.dart';
-import 'Auth/auth_event.dart';
-import 'Auth/auth_state.dart';
+import '../Features/Auth/auth_bloc.dart';
+import '../Features/Auth/auth_event.dart';
+import '../Features/Auth/auth_state.dart';
 import 'home_page.dart';
 import 'sign_up_page.dart';
 
